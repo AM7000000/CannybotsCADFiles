@@ -1,0 +1,5 @@
+
+
+1) Use the parts in the 'Parts for 3D printing' folder for printing
+2) The parts libaray is for referece. It included the cad modesl for all 
+the parts of the cannybots including the electric components.

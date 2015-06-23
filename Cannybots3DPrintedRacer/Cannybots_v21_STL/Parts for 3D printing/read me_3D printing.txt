@@ -1,0 +1,6 @@
+1) The parts were tested on Ultimaker 1
+	Print speed: 90mm/sec
+	Fill density: 20%
+	No support of brim needed
+
+2) Need not print the wheels. Its included in the kit  
